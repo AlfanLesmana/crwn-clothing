@@ -12,6 +12,7 @@ export const CheckoutContainer = styled.div`
       margin-left: auto;
       margin-top: 20px;
       width: 100px;
+      
     }
 `;
 
